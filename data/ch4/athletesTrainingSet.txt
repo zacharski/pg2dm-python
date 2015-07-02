@@ -1,0 +1,21 @@
+comment	class	num	num
+Asuka Teramoto	Gymnastics	54	66
+Brittainey Raven	Basketball	72	162
+Chen Nan	Basketball	78	204
+Gabby Douglas	Gymnastics	49	90
+Helalia Johannes	Track	65	99
+Irina Miketenko	Track	63	106
+Jennifer Lacy	Basketball	75	175
+Kara Goucher	Track	67	123
+Linlin Deng	Gymnastics	54	68
+Nakia Sanford	Basketball	76	200
+Nikki Blue	Basketball	68	163
+Qiushuang Huang	Gymnastics	61	95
+Rebecca Tunney	Gymnastics	58	77
+Rene Kalmer	Track	70	108
+Shanna Crossley	Basketball	70	155
+Shavonte Zellous	Basketball	70	155
+Tatyana Petrova	Track	63	108
+Tiki Gelana	Track	65	106
+Valeria Straneo	Track	66	97
+Viktoria Komova	Gymnastics	61	76

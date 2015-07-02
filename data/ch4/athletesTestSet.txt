@@ -1,0 +1,20 @@
+Aly Raisman	Gymnastics	62	115
+Crystal Langhorne	Basketball	74	190
+Diana Taurasi	Basketball	72	163
+Erin Thorn	Basketball	69	144
+Hannah Whelan	Gymnastics	63	117
+Jaycie Phelps	Gymnastics	60	97
+Kelly Miller	Basketball	70	140
+Kerri Strug	Gymnastics	57	87
+Koko Tsurumi	Gymnastics	55	75
+Li Shanshan	Gymnastics	64	101
+Lindsay Whalen	Basketball	69	169
+Lisa Jane Weightman	Track	62	97
+Maya Moore	Basketball	72	174
+Paula Radcliffe	Track	68	120
+Penny Taylor	Basketball	73	165
+Priscah Jeptoo	Track	65	108
+Shalane Flanagan	Track	65	106
+Xiaolin Zhu	Track	67	121
+Xueqin Wang	Track	64	110
+Zhu Xiaolin	Track	67	123

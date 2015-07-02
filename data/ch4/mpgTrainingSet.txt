@@ -1,0 +1,343 @@
+class	num	num	num	num	num	comment
+20	8	307.0	130.0	3504	12.0	chevrolet chevelle malibu
+15	8	350.0	165.0	3693	11.5	buick skylark 320
+20	8	318.0	150.0	3436	11.0	plymouth satellite
+15	8	304.0	150.0	3433	12.0	amc rebel sst
+15	8	302.0	140.0	3449	10.5	ford torino
+15	8	429.0	198.0	4341	10.0	ford galaxie 500
+15	8	454.0	220.0	4354	9.0	chevrolet impala
+15	8	440.0	215.0	4312	8.5	plymouth fury iii
+15	8	455.0	225.0	4425	10.0	pontiac catalina
+20	4	140.0	90.00	2408	19.5	chevrolet vega
+20	4	122.0	86.00	2226	16.5	ford pinto runabout
+15	8	350.0	165.0	4274	12.0	chevrolet impala
+15	8	400.0	175.0	4385	12.0	pontiac catalina
+15	8	318.0	150.0	4135	13.5	plymouth fury iii
+15	8	351.0	153.0	4129	13.0	ford galaxie 500
+15	8	304.0	150.0	3672	11.5	amc ambassador sst
+10	8	429.0	208.0	4633	11.0	mercury marquis
+15	8	350.0	155.0	4502	13.5	buick lesabre custom
+10	8	350.0	160.0	4456	13.5	oldsmobile delta 88 royale
+15	8	400.0	190.0	4422	12.5	chrysler newport royal
+20	3	70.00	97.00	2330	13.5	mazda rx2 coupe
+15	8	304.0	150.0	3892	12.5	amc matador (sw)
+15	8	307.0	130.0	4098	14.0	chevrolet chevelle concours (sw)
+15	8	302.0	140.0	4294	16.0	ford gran torino (sw)
+15	8	318.0	150.0	4077	14.0	plymouth satellite custom (sw)
+20	4	121.0	112.0	2933	14.5	volvo 145e (sw)
+20	4	121.0	76.00	2511	18.0	volkswagen 411 (sw)
+20	4	120.0	87.00	2979	19.5	peugeot 504 (sw)
+25	4	96.00	69.00	2189	18.0	renault 12 (sw)
+20	4	122.0	86.00	2395	16.0	ford pinto (sw)
+30	4	97.00	92.00	2288	17.0	datsun 510 (sw)
+25	4	120.0	97.00	2506	14.5	toyouta corona mark ii (sw)
+30	4	98.00	80.00	2164	15.0	dodge colt (sw)
+25	4	97.00	88.00	2100	16.5	toyota corolla 1600 (sw)
+15	8	350.0	175.0	4100	13.0	buick century 350
+15	8	304.0	150.0	3672	11.5	amc matador
+15	8	350.0	145.0	3988	13.0	chevrolet malibu
+15	8	302.0	137.0	4042	14.5	ford gran torino
+15	8	318.0	150.0	3777	12.5	dodge coronet custom
+10	8	429.0	198.0	4952	11.5	mercury marquis brougham
+15	8	400.0	150.0	4464	12.0	chevrolet caprice classic
+15	8	351.0	158.0	4363	13.0	ford ltd
+15	8	318.0	150.0	4237	14.5	plymouth fury gran sedan
+15	8	440.0	215.0	4735	11.0	chrysler new yorker brougham
+10	8	455.0	225.0	4951	11.0	buick electra 225 custom
+15	8	360.0	175.0	3821	11.0	amc ambassador brougham
+20	6	225.0	105.0	3121	16.5	plymouth valiant
+15	6	250.0	100.0	3278	18.0	chevrolet nova custom
+20	6	232.0	100.0	2945	16.0	amc hornet
+20	6	250.0	88.00	3021	16.5	ford maverick
+25	6	198.0	95.00	2904	16.0	plymouth duster
+25	4	97.00	46.00	1950	21.0	volkswagen super beetle
+10	8	400.0	150.0	4997	14.0	chevrolet impala
+10	8	400.0	167.0	4906	12.5	ford country
+15	8	360.0	170.0	4654	13.0	plymouth custom suburb
+10	8	350.0	180.0	4499	12.5	oldsmobile vista cruiser
+20	6	232.0	100.0	2789	15.0	amc gremlin
+20	4	97.00	88.00	2279	19.0	toyota carina
+20	4	140.0	72.00	2401	19.5	chevrolet vega
+20	4	108.0	94.00	2379	16.5	datsun 610
+20	3	70.00	90.00	2124	13.5	maxda rx3
+20	4	122.0	85.00	2310	18.5	ford pinto
+20	6	155.0	107.0	2472	14.0	mercury capri v6
+25	4	98.00	90.00	2265	15.5	fiat 124 sport coupe
+15	8	350.0	145.0	4082	13.0	chevrolet monte carlo s
+15	8	400.0	230.0	4278	9.50	pontiac grand prix
+30	4	68.00	49.00	1867	19.5	fiat 128
+25	4	116.0	75.00	2158	15.5	opel manta
+20	4	114.0	91.00	2582	14.0	audi 100ls
+20	4	121.0	112.0	2868	15.5	volvo 144ea
+15	8	318.0	150.0	3399	11.0	dodge dart custom
+25	4	121.0	110.0	2660	14.0	saab 99le
+20	6	156.0	122.0	2807	13.5	toyota mark ii
+10	8	350.0	180.0	3664	11.0	oldsmobile omega
+20	6	198.0	95.00	3102	16.5	plymouth duster
+20	6	232.0	100.0	2901	16.0	amc hornet
+15	6	250.0	100.0	3336	17.0	chevrolet nova
+30	4	79.00	67.00	1950	19.0	datsun b210
+25	4	122.0	80.00	2451	16.5	ford pinto
+30	4	71.00	65.00	1836	21.0	toyota corolla 1200
+25	4	140.0	75.00	2542	17.0	chevrolet vega
+15	6	250.0	100.0	3781	17.0	chevrolet chevelle malibu classic
+15	6	258.0	110.0	3632	18.0	amc matador
+20	6	225.0	105.0	3613	16.5	plymouth satellite sebring
+15	8	302.0	140.0	4141	14.0	ford gran torino
+15	8	350.0	150.0	4699	14.5	buick century luxus (sw)
+15	8	318.0	150.0	4457	13.5	dodge coronet custom (sw)
+15	8	302.0	140.0	4638	16.0	ford gran torino (sw)
+15	8	304.0	150.0	4257	15.5	amc matador (sw)
+30	4	98.00	83.00	2219	16.5	audi fox
+25	4	79.00	67.00	1963	15.5	volkswagen dasher
+25	4	97.00	78.00	2300	14.5	opel manta
+30	4	76.00	52.00	1649	16.5	toyota corona
+30	4	83.00	61.00	2003	19.0	datsun 710
+30	4	90.00	75.00	2125	14.5	dodge colt
+25	4	90.00	75.00	2108	15.5	fiat 128
+25	4	116.0	75.00	2246	14.0	fiat 124 tc
+25	4	120.0	97.00	2489	15.0	honda civic
+25	4	108.0	93.00	2391	15.5	subaru
+30	4	79.00	67.00	2000	16.0	fiat x1.9
+20	6	225.0	95.00	3264	16.0	plymouth valiant custom
+20	6	250.0	105.0	3459	16.0	chevrolet nova
+15	6	250.0	72.00	3432	21.0	mercury monarch
+15	6	250.0	72.00	3158	19.5	ford maverick
+15	8	400.0	170.0	4668	11.5	pontiac catalina
+15	8	350.0	145.0	4440	14.0	chevrolet bel air
+15	8	318.0	150.0	4498	14.5	plymouth grand fury
+15	8	351.0	148.0	4657	13.5	ford ltd
+15	6	231.0	110.0	3907	21.0	buick century
+15	6	250.0	105.0	3897	18.5	chevroelt chevelle malibu
+15	6	258.0	110.0	3730	19.0	amc matador
+20	6	225.0	95.00	3785	19.0	plymouth fury
+20	6	231.0	110.0	3039	15.0	buick skyhawk
+20	8	262.0	110.0	3221	13.5	chevrolet monza 2+2
+15	8	302.0	129.0	3169	12.0	ford mustang ii
+30	4	97.00	75.00	2171	16.0	toyota corolla
+25	4	140.0	83.00	2639	17.0	ford pinto
+20	6	232.0	100.0	2914	16.0	amc gremlin
+25	4	140.0	78.00	2592	18.5	pontiac astro
+25	4	134.0	96.00	2702	13.5	toyota corona
+25	4	90.00	71.00	2223	16.5	volkswagen dasher
+25	4	119.0	97.00	2545	17.0	datsun 710
+20	6	171.0	97.00	2984	14.5	ford pinto
+30	4	90.00	70.00	1937	14.0	volkswagen rabbit
+20	6	232.0	90.00	3211	17.0	amc pacer
+25	4	115.0	95.00	2694	15.0	audi 100ls
+25	4	120.0	88.00	2957	17.0	peugeot 504
+20	4	121.0	98.00	2945	14.5	volvo 244dl
+25	4	121.0	115.0	2671	13.5	saab 99le
+35	4	91.00	53.00	1795	17.5	honda civic cvcc
+30	4	107.0	86.00	2464	15.5	fiat 131
+25	4	116.0	81.00	2220	16.9	opel 1900
+25	4	140.0	92.00	2572	14.9	capri ii
+25	4	98.00	79.00	2255	17.7	dodge colt
+25	4	101.0	83.00	2202	15.3	renault 12tl
+20	8	305.0	140.0	4215	13.0	chevrolet chevelle malibu classic
+15	8	318.0	150.0	4190	13.0	dodge coronet brougham
+15	8	304.0	120.0	3962	13.9	amc matador
+15	8	351.0	152.0	4215	12.8	ford gran torino
+20	6	225.0	100.0	3233	15.4	plymouth valiant
+20	6	250.0	105.0	3353	14.5	chevrolet nova
+25	6	200.0	81.00	3012	17.6	ford maverick
+25	6	232.0	90.00	3085	17.6	amc hornet
+30	4	85.00	52.00	2035	22.2	chevrolet chevette
+25	4	98.00	60.00	2164	22.1	chevrolet woody
+30	4	90.00	70.00	1937	14.2	vw rabbit
+35	4	91.00	53.00	1795	17.4	honda civic
+20	6	225.0	100.0	3651	17.7	dodge aspen se
+20	6	250.0	78.00	3574	21.0	ford granada ghia
+20	6	250.0	110.0	3645	16.2	pontiac ventura sj
+20	6	258.0	95.00	3193	17.8	amc pacer d/l
+30	4	97.00	71.00	1825	12.2	volkswagen rabbit
+30	4	85.00	70.00	1990	17.0	datsun b-210
+30	4	97.00	75.00	2155	16.4	toyota corolla
+25	4	140.0	72.00	2565	13.6	ford pinto
+20	4	130.0	102.0	3150	15.7	volvo 245
+15	8	318.0	150.0	3940	13.2	plymouth volare premier v8
+20	4	120.0	88.00	3270	21.9	peugeot 504
+20	6	156.0	108.0	2930	15.5	toyota mark ii
+15	6	168.0	120.0	3820	16.7	mercedes-benz 280s
+15	8	350.0	180.0	4380	12.1	cadillac seville
+15	8	350.0	145.0	4055	12.0	chevy c10
+15	8	302.0	130.0	3870	15.0	ford f108
+15	8	318.0	150.0	3755	14.0	dodge d100
+30	4	98.00	68.00	2045	18.5	honda accord cvcc
+30	4	111.0	80.00	2155	14.8	buick opel isuzu deluxe
+35	4	79.00	58.00	1825	18.6	renault 5 gtl
+25	4	122.0	96.00	2300	15.5	plymouth arrow gs
+35	4	85.00	70.00	1945	16.8	datsun f-10 hatchback
+20	8	305.0	145.0	3880	12.5	chevrolet caprice classic
+15	8	260.0	110.0	4060	19.0	oldsmobile cutlass supreme
+15	8	318.0	145.0	4140	13.7	dodge monaco brougham
+15	8	302.0	130.0	4295	14.9	mercury cougar brougham
+20	6	250.0	110.0	3520	16.4	chevrolet concours
+20	6	231.0	105.0	3425	16.9	buick skylark
+20	6	225.0	100.0	3630	17.7	plymouth volare custom
+20	6	250.0	98.00	3525	19.0	ford granada
+15	8	400.0	180.0	4220	11.1	pontiac grand prix lj
+15	8	350.0	170.0	4165	11.4	chevrolet monte carlo landau
+15	8	400.0	190.0	4325	12.2	chrysler cordoba
+15	8	351.0	149.0	4335	14.5	ford thunderbird
+30	4	97.00	78.00	1940	14.5	volkswagen rabbit custom
+25	4	151.0	88.00	2740	16.0	pontiac sunbird coupe
+25	4	97.00	75.00	2265	18.2	toyota corolla liftback
+25	4	140.0	89.00	2755	15.8	ford mustang ii 2+2
+30	4	98.00	63.00	2051	17.0	chevrolet chevette
+35	4	98.00	83.00	2075	15.9	dodge colt m/m
+30	4	97.00	67.00	1985	16.4	subaru dl
+30	4	97.00	78.00	2190	14.1	volkswagen dasher
+20	6	146.0	97.00	2815	14.5	datsun 810
+20	4	121.0	110.0	2600	12.8	bmw 320i
+20	3	80.00	110.0	2720	13.5	mazda rx-4
+45	4	90.00	48.00	1985	21.5	volkswagen rabbit custom diesel
+35	4	98.00	66.00	1800	14.4	ford fiesta
+35	4	78.00	52.00	1985	19.4	mazda glc deluxe
+40	4	85.00	70.00	2070	18.6	datsun b210 gx
+35	4	91.00	60.00	1800	16.4	honda civic cvcc
+20	8	260.0	110.0	3365	15.5	oldsmobile cutlass salon brougham
+20	8	318.0	140.0	3735	13.2	dodge diplomat
+20	8	302.0	139.0	3570	12.8	mercury monarch ghia
+20	6	231.0	105.0	3535	19.2	pontiac phoenix lj
+20	6	200.0	95.00	3155	18.2	chevrolet malibu
+20	6	200.0	85.00	2965	15.8	ford fairmont (auto)
+25	4	140.0	88.00	2720	15.4	ford fairmont (man)
+20	6	225.0	100.0	3430	17.2	plymouth volare
+20	6	232.0	90.00	3210	17.2	amc concord
+20	6	231.0	105.0	3380	15.8	buick century special
+20	6	200.0	85.00	3070	16.7	mercury zephyr
+20	6	225.0	110.0	3620	18.7	dodge aspen
+20	6	258.0	120.0	3410	15.1	amc concord d/l
+20	8	305.0	145.0	3425	13.2	chevrolet monte carlo landau
+20	6	231.0	165.0	3445	13.4	buick regal sport coupe (turbo)
+20	8	302.0	139.0	3205	11.2	ford futura
+20	8	318.0	140.0	4080	13.7	dodge magnum xe
+30	4	98.00	68.00	2155	16.5	chevrolet chevette
+30	4	134.0	95.00	2560	14.2	toyota corona
+25	4	119.0	97.00	2300	14.7	datsun 510
+30	4	105.0	75.00	2230	14.5	dodge omni
+20	4	134.0	95.00	2515	14.8	toyota celica gt liftback
+25	4	156.0	105.0	2745	16.7	plymouth sapporo
+25	4	151.0	85.00	2855	17.6	oldsmobile starfire sx
+25	4	119.0	97.00	2405	14.9	datsun 200-sx
+20	5	131.0	103.0	2830	15.9	audi 5000
+15	6	163.0	125.0	3140	13.6	volvo 264gl
+20	4	121.0	115.0	2795	15.7	saab 99gle
+15	6	163.0	133.0	3410	15.8	peugeot 604sl
+30	4	89.00	71.00	1990	14.9	volkswagen scirocco
+30	4	98.00	68.00	2135	16.6	honda accord lx
+20	6	231.0	115.0	3245	15.4	pontiac lemans v6
+20	6	200.0	85.00	2990	18.2	mercury zephyr 6
+20	4	140.0	88.00	2890	17.3	ford fairmont 4
+20	6	232.0	90.00	3265	18.2	amc concord dl 6
+20	6	225.0	110.0	3360	16.6	dodge aspen 6
+15	8	305.0	130.0	3840	15.4	chevrolet caprice classic
+20	8	302.0	129.0	3725	13.4	ford ltd landau
+15	8	351.0	138.0	3955	13.2	mercury grand marquis
+20	8	318.0	135.0	3830	15.2	dodge st. regis
+15	8	350.0	155.0	4360	14.9	buick estate wagon (sw)
+15	8	351.0	142.0	4054	14.3	ford country squire (sw)
+20	8	267.0	125.0	3605	15.0	chevrolet malibu classic (sw)
+20	8	360.0	150.0	3940	13.0	chrysler lebaron town @ country (sw)
+30	4	89.00	71.00	1925	14.0	vw rabbit custom
+35	4	86.00	65.00	1975	15.2	maxda glc deluxe
+35	4	98.00	80.00	1915	14.4	dodge colt hatchback custom
+25	4	121.0	80.00	2670	15.0	amc spirit dl
+25	5	183.0	77.00	3530	20.1	mercedes benz 300d
+25	8	350.0	125.0	3900	17.4	cadillac eldorado
+25	4	141.0	71.00	3190	24.8	peugeot 504
+25	8	260.0	90.00	3420	22.2	oldsmobile cutlass salon brougham
+35	4	105.0	70.00	2200	13.2	plymouth horizon
+35	4	105.0	70.00	2150	14.9	plymouth horizon tc3
+30	4	85.00	65.00	2020	19.2	datsun 210
+35	4	91.00	69.00	2130	14.7	fiat strada custom
+30	4	151.0	90.00	2670	16.0	buick skylark limited
+30	6	173.0	115.0	2595	11.3	chevrolet citation
+25	6	173.0	115.0	2700	12.9	oldsmobile omega brougham
+35	4	151.0	90.00	2556	13.2	pontiac phoenix
+40	4	98.00	76.00	2144	14.7	vw rabbit
+40	4	89.00	60.00	1968	18.8	toyota corolla tercel
+30	4	98.00	70.00	2120	15.5	chevrolet chevette
+35	4	86.00	65.00	2019	16.4	datsun 310
+30	4	151.0	90.00	2678	16.5	chevrolet citation
+25	4	140.0	88.00	2870	18.1	ford fairmont
+25	4	151.0	90.00	3003	20.1	amc concord
+20	6	225.0	90.00	3381	18.7	dodge aspen
+35	4	97.00	78.00	2188	15.8	audi 4000
+30	4	134.0	90.00	2711	15.5	toyota corona liftback
+30	4	120.0	75.00	2542	17.5	mazda 626
+35	4	119.0	92.00	2434	15.0	datsun 510 hatchback
+30	4	108.0	75.00	2265	15.2	toyota corolla
+45	4	86.00	65.00	2110	17.9	mazda glc
+30	4	156.0	105.0	2800	14.4	dodge colt
+40	4	85.00	65.00	2110	19.2	datsun 210
+45	4	90.00	48.00	2085	21.7	vw rabbit c (diesel)
+45	4	90.00	48.00	2335	23.7	vw dasher (diesel)
+35	5	121.0	67.00	2950	19.9	audi 5000s (diesel)
+30	4	146.0	67.00	3250	21.8	mercedes-benz 240d
+45	4	91.00	67.00	1850	13.8	honda civic 1500 gl
+35	4	97.00	67.00	2145	18.0	subaru dl
+30	4	89.00	62.00	1845	15.3	vokswagen rabbit
+35	6	168.0	132.0	2910	11.4	datsun 280-zx
+25	3	70.00	100.0	2420	12.5	mazda rx-7 gs
+35	4	122.0	88.00	2500	15.1	triumph tr7 coupe
+30	4	107.0	72.00	2290	17.0	honda accord
+25	4	135.0	84.00	2490	15.7	plymouth reliant
+25	4	151.0	84.00	2635	16.4	buick skylark
+25	4	156.0	92.00	2620	14.4	dodge aries wagon (sw)
+25	6	173.0	110.0	2725	12.6	chevrolet citation
+30	4	135.0	84.00	2385	12.9	plymouth reliant
+40	4	79.00	58.00	1755	16.9	toyota starlet
+40	4	86.00	64.00	1875	16.4	plymouth champ
+35	4	81.00	60.00	1760	16.1	honda civic 1300
+30	4	97.00	67.00	2065	17.8	subaru
+35	4	85.00	65.00	1975	19.4	datsun 210 mpg
+40	4	89.00	62.00	2050	17.3	toyota tercel
+35	4	91.00	68.00	1985	16.0	mazda glc 4
+35	4	105.0	63.00	2215	14.9	plymouth horizon 4
+35	4	98.00	65.00	2045	16.2	ford escort 4w
+30	4	98.00	65.00	2380	20.7	ford escort 2h
+35	4	105.0	74.00	2190	14.2	volkswagen jetta
+35	4	107.0	75.00	2210	14.4	honda prelude
+30	4	108.0	75.00	2350	16.8	toyota corolla
+35	4	119.0	100.0	2615	14.8	datsun 200sx
+30	4	120.0	74.00	2635	18.3	mazda 626
+30	4	141.0	80.00	3230	20.4	peugeot 505s turbo diesel
+30	6	145.0	76.00	3160	19.6	volvo diesel
+25	6	168.0	116.0	2900	12.6	toyota cressida
+25	6	146.0	120.0	2930	13.8	datsun 810 maxima
+20	6	231.0	110.0	3415	15.8	buick century
+25	8	350.0	105.0	3725	19.0	oldsmobile cutlass ls
+20	6	200.0	88.00	3060	17.1	ford granada gl
+20	6	225.0	85.00	3465	16.6	chrysler lebaron salon
+30	4	112.0	88.00	2605	19.6	chevrolet cavalier
+25	4	112.0	88.00	2640	18.6	chevrolet cavalier wagon
+35	4	112.0	88.00	2395	18.0	chevrolet cavalier 2-door
+30	4	112.0	85.00	2575	16.2	pontiac j2000 se hatchback
+30	4	135.0	84.00	2525	16.0	dodge aries se
+25	4	151.0	90.00	2735	18.0	pontiac phoenix
+25	4	140.0	92.00	2865	16.4	ford fairmont futura
+35	4	105.0	74.00	1980	15.3	volkswagen rabbit l
+35	4	91.00	68.00	2025	18.2	mazda glc custom l
+30	4	91.00	68.00	1970	17.6	mazda glc custom
+40	4	105.0	63.00	2125	14.7	plymouth horizon miser
+35	4	98.00	70.00	2125	17.3	mercury lynx l
+35	4	120.0	88.00	2160	14.5	nissan stanza xe
+35	4	107.0	75.00	2205	14.5	honda accord
+35	4	108.0	70.00	2245	16.9	toyota corolla
+40	4	91.00	67.00	1965	15.0	honda civic
+30	4	91.00	67.00	1965	15.7	honda civic (auto)
+40	4	91.00	67.00	1995	16.2	datsun 310 gx
+25	6	181.0	110.0	2945	16.4	buick century limited
+40	6	262.0	85.00	3015	17.0	oldsmobile cutlass ciera (diesel)
+25	4	156.0	92.00	2585	14.5	chrysler lebaron medallion
+20	6	232.0	112.0	2835	14.7	ford granada l
+30	4	144.0	96.00	2665	13.9	toyota celica gt
+35	4	135.0	84.00	2370	13.0	dodge charger 2.2
+25	4	151.0	90.00	2950	17.3	chevrolet camaro
+25	4	140.0	86.00	2790	15.6	ford mustang gl
+45	4	97.00	52.00	2130	24.6	vw pickup
+30	4	135.0	84.00	2295	11.6	dodge rampage
+30	4	120.0	79.00	2625	18.6	ford ranger
+30	4	119.0	82.00	2720	19.4	chevy s-10
