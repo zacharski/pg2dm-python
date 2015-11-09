@@ -1,0 +1,110 @@
+Border Collie        Portuguese Water Dog 0.23171
+Portuguese Water Dog Border Collie        0.23171
+Chihuahua            Yorkshire Terrier    0.36183
+Yorkshire Terrier    Chihuahua            0.36183
+German Shepherd      Golden Retriever     0.42927
+Golden Retriever     German Shepherd      0.42927
+Border Collie        Brittany Spaniel     0.46342
+Brittany Spaniel     Border Collie        0.46342
+Boston Terrier       Brittany Spaniel     0.56623
+Brittany Spaniel     Boston Terrier       0.56623
+Portuguese Water Dog Standard Poodle      0.56623
+Standard Poodle      Portuguese Water Dog 0.56623
+Border Collie        Standard Poodle      0.60931
+Standard Poodle      Border Collie        0.60931
+Golden Retriever     Portuguese Water Dog 0.68470
+Portuguese Water Dog Golden Retriever     0.68470
+Brittany Spaniel     Portuguese Water Dog 0.69513
+Portuguese Water Dog Brittany Spaniel     0.69513
+Golden Retriever     Standard Poodle      0.73584
+Standard Poodle      Golden Retriever     0.73584
+Brittany Spaniel     Standard Poodle      0.89145
+Standard Poodle      Brittany Spaniel     0.89145
+Border Collie        Golden Retriever     0.90661
+Golden Retriever     Border Collie        0.90661
+Border Collie        Boston Terrier       1.02448
+Boston Terrier       Border Collie        1.02448
+German Shepherd      Portuguese Water Dog 1.08822
+Portuguese Water Dog German Shepherd      1.08822
+German Shepherd      Standard Poodle      1.14620
+Standard Poodle      German Shepherd      1.14620
+Boston Terrier       Portuguese Water Dog 1.25503
+Portuguese Water Dog Boston Terrier       1.25503
+Bullmastiff          German Shepherd      1.27432
+German Shepherd      Bullmastiff          1.27432
+Border Collie        German Shepherd      1.31726
+German Shepherd      Border Collie        1.31726
+Brittany Spaniel     Golden Retriever     1.36027
+Golden Retriever     Brittany Spaniel     1.36027
+Boston Terrier       Standard Poodle      1.41687
+Standard Poodle      Boston Terrier       1.41687
+Bullmastiff          Great Dane           1.47238
+Great Dane           Bullmastiff          1.47238
+Boston Terrier       Chihuahua            1.48429
+Chihuahua            Boston Terrier       1.48429
+Bullmastiff          Golden Retriever     1.62400
+Golden Retriever     Bullmastiff          1.62400
+Brittany Spaniel     German Shepherd      1.77741
+German Shepherd      Brittany Spaniel     1.77741
+Boston Terrier       Yorkshire Terrier    1.84253
+Yorkshire Terrier    Boston Terrier       1.84253
+Boston Terrier       Golden Retriever     1.92626
+Golden Retriever     Boston Terrier       1.92626
+Brittany Spaniel     Chihuahua            1.96702
+Chihuahua            Brittany Spaniel     1.96702
+Bullmastiff          Standard Poodle      2.15473
+Standard Poodle      Bullmastiff          2.15473
+Bullmastiff          Portuguese Water Dog 2.30655
+Portuguese Water Dog Bullmastiff          2.30655
+Brittany Spaniel     Yorkshire Terrier    2.31226
+Yorkshire Terrier    Brittany Spaniel     2.31226
+Boston Terrier       German Shepherd      2.34153
+German Shepherd      Boston Terrier       2.34153
+Border Collie        Chihuahua            2.41701
+Chihuahua            Border Collie        2.41701
+Border Collie        Bullmastiff          2.52128
+Bullmastiff          Border Collie        2.52128
+Chihuahua            Standard Poodle      2.58575
+Standard Poodle      Chihuahua            2.58575
+Chihuahua            Portuguese Water Dog 2.64375
+Portuguese Water Dog Chihuahua            2.64375
+German Shepherd      Great Dane           2.69955
+Great Dane           German Shepherd      2.69955
+Border Collie        Yorkshire Terrier    2.75616
+Yorkshire Terrier    Border Collie        2.75616
+Standard Poodle      Yorkshire Terrier    2.88866
+Yorkshire Terrier    Standard Poodle      2.88866
+Brittany Spaniel     Bullmastiff          2.95844
+Bullmastiff          Brittany Spaniel     2.95844
+Portuguese Water Dog Yorkshire Terrier    2.98033
+Yorkshire Terrier    Portuguese Water Dog 2.98033
+Golden Retriever     Great Dane           3.08113
+Great Dane           Golden Retriever     3.08113
+Chihuahua            Golden Retriever     3.25144
+Golden Retriever     Chihuahua            3.25144
+Boston Terrier       Bullmastiff          3.52180
+Bullmastiff          Boston Terrier       3.52180
+Golden Retriever     Yorkshire Terrier    3.57195
+Yorkshire Terrier    Golden Retriever     3.57195
+Great Dane           Standard Poodle      3.62468
+Standard Poodle      Great Dane           3.62468
+Chihuahua            German Shepherd      3.68066
+German Shepherd      Chihuahua            3.68066
+Great Dane           Portuguese Water Dog 3.76583
+Portuguese Water Dog Great Dane           3.76583
+Border Collie        Great Dane           3.98523
+Great Dane           Border Collie        3.98523
+German Shepherd      Yorkshire Terrier    4.00100
+Yorkshire Terrier    German Shepherd      4.00100
+Brittany Spaniel     Great Dane           4.42780
+Great Dane           Brittany Spaniel     4.42780
+Bullmastiff          Chihuahua            4.72883
+Chihuahua            Bullmastiff          4.72883
+Boston Terrier       Great Dane           4.99227
+Great Dane           Boston Terrier       4.99227
+Bullmastiff          Yorkshire Terrier    5.01536
+Yorkshire Terrier    Bullmastiff          5.01536
+Chihuahua            Great Dane           6.18836
+Great Dane           Chihuahua            6.18836
+Great Dane           Yorkshire Terrier    6.46575
+Yorkshire Terrier    Great Dane           6.46575
